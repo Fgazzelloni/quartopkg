@@ -1,6 +1,6 @@
 project:
-  type: book
-  output-dir: docs 
+  type: package
+  output-dir: docs
 
 book:
   title: "quartopkg"
